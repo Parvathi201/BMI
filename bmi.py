@@ -18,6 +18,3 @@ if submit:
         st.warning("Overweight")
     elif BMI>=30.0:
         st.error("Obese")
-
-#C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts\streamlit.exe run c:/Users/hp/Desktop/Python/bmi.py
-#running command
